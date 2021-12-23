@@ -1,2 +1,0 @@
-# Tesina-Tc
-Codice matlab
